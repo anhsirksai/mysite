@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Ilakath
+tagline:          'Maflia'
+description:      'If there is nothing to write, there is nothing. thats it.!!'
+url:              http://anhsirksai.github.io
+baseurl:          /
+
+author:
+  name:           'Sai Krishna'
+  url:            https://twitter.com/saikrishna_sv
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/anhsirksai
